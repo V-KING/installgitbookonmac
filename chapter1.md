@@ -18,5 +18,6 @@
   cd \/your\_path\/newBook gitbook init gitbook build 你会发现在\/your\_path\/newBook目录下多了一个\_book目录
 
 2. 用鼠标进入到\/your\_path\/newBook\/\_book目录
+
 3. 双击index.html
 
