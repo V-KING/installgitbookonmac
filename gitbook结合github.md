@@ -30,3 +30,5 @@ gitbook editor是git+gitbook编辑器
   3. 参照 [在mac上安装使用gitbook](chapter1.md) 使用gitbook
 
 
+3. 注意区分gitbook editor的目录和 SourceTree的目录区别
+
