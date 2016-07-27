@@ -33,7 +33,7 @@ gitbook editor是git+gitbook编辑器
 
 1. 注意区分gitbook editor的目录和 SourceTree的目录区别
 2. 在SourceTree中可以多添加一个remote repository，这样你可以用SourceTree从你本地上pull到SourceTree的仓库，然后在用SourceTree 推送到github-master上
-  1. Add -&gt; Remote name填写github-master -&gt; URL\/path中填写或者选择你在github上已有的仓库, 
+  1. Add -&gt; Remote name填写github-master -&gt; URL\/path中填写或者选择你在github上已有的仓库：https:\/\/github.com\/V-KING\/newBook1.git
   2. 从此后，github-master就代表了https:\/\/github.com\/V-KING\/newBook1.git
 
 
