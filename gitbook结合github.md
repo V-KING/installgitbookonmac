@@ -27,6 +27,6 @@ gitbook editor是git+gitbook编辑器
 
   2. 使用gitbook editor打开newBook1目录，便可以继续编辑你的book
 
-  3. 参照
+  3. 参照 [在mac上安装使用gitbook](chapter1.md) 使用gitbook
 
 
