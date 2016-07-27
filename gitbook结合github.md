@@ -22,7 +22,11 @@ gitbook editor是git+gitbook编辑器
   2. 方法二：用SourceTree去create一个新的
 
 2. 如果github上的仓库已经有了你的book，而你的mac机本地没有，就先从github上clone下来
+
   1. 使用SourceTree去clone，或者直接使用命令：git clone https:\/\/github.com\/V-KING\/newBook1.git
-  2. 使用gitbook editor打开newBook1目录，便可以继续编辑你的book了
+
+  2. 使用gitbook editor打开newBook1目录，便可以继续编辑你的book
+
+  3. 参照
 
 
